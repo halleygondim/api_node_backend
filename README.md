@@ -5,7 +5,7 @@
 Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.
 Cadastro de usuários, tags (palavras chaves de elogio, ex: Dedicado) e Compliment (ato de um usuário elogiar o outro com base em várias tags)
 
-Algumas chamadas pelo Imsomnia
+Algumas chamadas pelo Imsomnia (faça a importação do Json)
 https://drive.google.com/file/d/1gLzq8DO42p-HaA_OdoTD7LjPQ8L4vLjp/view?usp=sharing
 
 ## 🚀 Como executar
